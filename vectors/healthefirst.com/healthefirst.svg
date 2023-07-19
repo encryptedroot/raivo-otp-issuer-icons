@@ -1,0 +1,13 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" version="1.1" viewBox="50.67 128.46 94.67 97.4">     
+    <g transform="matrix(1.3333333,0,0,-1.3333333,0,384)" id="g10">         
+        <g transform="translate(72.46,141.5986)" id="g12">             
+            <path id="path14" style="fill:#384173;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 -11.92,7.549 -0.066,14.883 -10.62,6.727 0.066,-14.883 -11.92,7.549 0.059,-14.392 11.92,-7.55 0.066,-16.154 10.621,-6.726 -0.067,16.154 11.92,-7.55 z"/>         
+        </g>         
+        <g transform="translate(74.54,141.5986)" id="g16">             
+            <path id="path18" style="fill:#4e7dbe;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 11.92,7.549 0.066,14.883 10.62,6.727 -0.066,-14.883 11.92,7.549 -0.059,-14.392 -11.92,-7.55 -0.066,-16.154 -10.621,-6.726 0.067,16.154 -11.92,-7.55 z"/>
+        </g>
+        <g transform="translate(83.4863,190.8921)" id="g20">
+            <path id="path22" style="fill:#82c7ee;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 -10.383,-5.483 -10.54,6.246 -10.74,-5.129 11.934,-6.84 -13.127,-7.305 10.74,-6.683 12.311,8.057 12.408,-7.746 10.228,6.217 -12.54,7.523 10.077,5.983 z"/>         
+        </g>     
+    </g> 
+</svg>
